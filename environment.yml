@@ -1,0 +1,7 @@
+name: ray_secrets
+dependencies:
+  - python
+  - pip
+  - pip:
+    - cryptography >= 38.0.3
+    - ray >= 2.1.0
